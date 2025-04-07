@@ -2,7 +2,6 @@
 
 A powerful Streamlit application for data processing, analysis, and transformation. This tool allows users to upload CSV or Excel files, modify columns, filter data, handle missing values, visualize data, and export the processed results.
 
-![Enhanced Data Processor Screenshot](screenshots/app_screenshot.png)
 
 ## Features
 
@@ -87,7 +86,6 @@ openpyxl
 
 The application provides an intuitive user interface with different sections for specific data processing tasks:
 
-![Enhanced Data Processor Screenshot](screenshots/app_screenshot.png)
 
 ## Contributing
 
